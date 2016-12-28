@@ -1,0 +1,7 @@
+ERROR(TransferEvr): 0 AMP file(s) found with pattern AMP.*.HEBO*.BHZ
+./Working_Thread_3: No such file or directory
+ERROR(TransferEvr): 0 AMP file(s) found with pattern AMP.*.J36A*.BHZ
+ERROR(TransferEvr): 0 AMP file(s) found with pattern AMP.*.J65A*.BHZ
+ERROR(TransferEvr): 0 AMP file(s) found with pattern AMP.*.DBO*.BHZ
+ERROR(TransferEvr): 0 AMP file(s) found with pattern AMP.*.LTY*.BHZ
+slurmstepd: error: *** JOB 1634567 ON node0202 CANCELLED AT 2016-10-25T10:18:34 DUE TO TIME LIMIT ***
